@@ -40,3 +40,18 @@ Welcome to **SmartAI-Image and Interact**! This interactive web application comb
 
 We welcome contributions! Feel free to open issues or make pull requests to enhance **SmartAI-Image and Interact**.
 
+GUI 1:  
+![image](https://github.com/user-attachments/assets/13659e15-d36c-44d4-91b4-fe89344ea683)
+
+GUI 2:
+![image](https://github.com/user-attachments/assets/1222903f-c4c7-4200-bb60-ffe44d34b156)
+
+GUI 3:
+![image](https://github.com/user-attachments/assets/8fafcb27-e5ac-4f9e-8531-02d9d875ac2b)
+
+GUI 4:
+![image](https://github.com/user-attachments/assets/c29a776e-3125-4191-bc38-c69f870d13a0)
+
+
+
+
