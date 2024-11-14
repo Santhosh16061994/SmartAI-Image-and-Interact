@@ -40,9 +40,7 @@ Welcome to **SmartAI-Image and Interact**! This interactive web application comb
 
 We welcome contributions! Feel free to open issues or make pull requests to enhance **SmartAI-Image and Interact**.
 
-## Sample Webapp Link : 
-[
-](https://smartai-image-and-interact.streamlit.app/)
+## Sample Webapp Link :  https://smartai-image-and-interact.streamlit.app/
 
 GUI 1:  
 ![image](https://github.com/user-attachments/assets/13659e15-d36c-44d4-91b4-fe89344ea683)
